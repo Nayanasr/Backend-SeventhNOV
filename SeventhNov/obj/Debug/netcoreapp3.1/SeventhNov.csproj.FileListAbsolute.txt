@@ -1,0 +1,14 @@
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\bin\Debug\netcoreapp3.1\SeventhNov.exe
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\bin\Debug\netcoreapp3.1\SeventhNov.deps.json
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\bin\Debug\netcoreapp3.1\SeventhNov.runtimeconfig.json
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\bin\Debug\netcoreapp3.1\SeventhNov.runtimeconfig.dev.json
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\bin\Debug\netcoreapp3.1\SeventhNov.dll
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\bin\Debug\netcoreapp3.1\SeventhNov.pdb
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\obj\Debug\netcoreapp3.1\SeventhNov.csproj.AssemblyReference.cache
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\obj\Debug\netcoreapp3.1\SeventhNov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\obj\Debug\netcoreapp3.1\SeventhNov.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\obj\Debug\netcoreapp3.1\SeventhNov.AssemblyInfo.cs
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\obj\Debug\netcoreapp3.1\SeventhNov.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\obj\Debug\netcoreapp3.1\SeventhNov.dll
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\obj\Debug\netcoreapp3.1\SeventhNov.pdb
+C:\Users\107012\source\repos\SeventhNov\SeventhNov\obj\Debug\netcoreapp3.1\SeventhNov.genruntimeconfig.cache
